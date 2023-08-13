@@ -1,6 +1,6 @@
-## The-Data-Science-Process
+# The-Data-Science-Process
 
-# We learn:
+## We learn:
 a- How read a file 
 
 b- What info we need from a data at the first step
@@ -16,6 +16,9 @@ f- impuding nan values (lambda)
 g- Handling categorical variables (dummy)
 
 h- Handing overfitting and improving model
+
+
+## The CRISP-DM Process (Cross Industry Process for Data Mining)
 
 
 1. Business Understanding
