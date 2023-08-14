@@ -9,7 +9,7 @@ c- Creating a ML model
 
 d- Handling nan values (nan)
 
-e- removing nan values (dropna)
+e- Removing nan values (dropna)
 
 f- Impuding nan values (lambda)
 
