@@ -1,17 +1,17 @@
 # The-Data-Science-Process
 
-## We learn:
+## Subsets:
 a- How read a file 
 
-b- What info we need from a data at the first step
+b- What info do we need from data at the first step
 
-c- creating a ML model
+c- Creating a ML model
 
-d- how handle nan values (nan)
+d- Handling nan values (nan)
 
-e- removingd nan values (dropna)
+e- removing nan values (dropna)
 
-f- impuding nan values (lambda)
+f- Impuding nan values (lambda)
 
 g- Handling categorical variables (dummy)
 
